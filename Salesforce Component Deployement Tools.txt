@@ -1,3 +1,5 @@
+Deployment tools in Salesforce-
+
 For LWC component Deployement we can use Salesforce CLI, for Bulk Deployement of complex OmniStudio Components we can use VBT, and for Smaller Omnistudio Components Deployment we can use IDX Workbench.
 
 Vlocity Build Tool (VBT):-
